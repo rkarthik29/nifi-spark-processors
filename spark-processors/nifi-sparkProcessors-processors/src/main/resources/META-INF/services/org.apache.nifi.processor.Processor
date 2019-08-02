@@ -15,3 +15,4 @@
 org.apache.nifi.processors.sparkProcessors.CreateDataFrame
 org.apache.nifi.processors.sparkProcessors.JoinDataFrame
 org.apache.nifi.processors.sparkProcessors.SaveDataFrame
+org.apache.nifi.processors.sparkProcessors.FilterDataFrame
